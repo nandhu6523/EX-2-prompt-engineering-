@@ -1,10 +1,5 @@
 # EX-2-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
 
-Experiment:
-Test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. 
-     Analyze the quality, accuracy, and depth of the generated responses.
-
-# OUTPUT
 
 # Introduction
    Prompting is crucial in shaping the responses of generative AI systems. The structure of a prompt—whether broad and unstructured or refined and specific—directly impacts the quality, accuracy, and depth of generated content. While broad prompts encourage open-ended exploration, refined prompts provide better control over AI outputs. This report analyzes the effects of different prompting styles, comparing results across multiple scenarios and identifying best practices for optimizing AI-generated responses.
@@ -39,20 +34,20 @@ ii] Refined and Clear Prompts
 
        3) Ideal for structured, detailed, and actionable outputs.
 
-Experiment Design
+# Experiment Design
 
 To compare these prompting styles, we conducted an experiment using generative AI models. The study involved crafting both broad and refined prompts across 
 four distinct scenarios, with responses evaluated based on predefined metrics.
 
 # Test Scenarios:
 
-Academic Context
+* Academic Context
 
-Business Applications
+* Business Applications
 
-Creative Writing
+* Creative Writing
 
-Technical Explanations
+* Technical Explanations
 
 Evaluation Metrics:
 
@@ -61,6 +56,8 @@ Quality: Coherence, logical flow, and alignment with intent.
 Accuracy: Factual correctness of the response.
 
 Depth: Level of detail, insight, and comprehensiveness.
+
+
 
 # Results and Analysis
 
@@ -78,6 +75,9 @@ Response: Detailed explanation of AI-driven curricula adaptation, student tracki
 
 Evaluation: Quality (Highly structured), Accuracy (Factually correct), Depth (Comprehensive with examples).
 
+
+
+
 (Scenario 2: Business Applications)
 
 Broad Prompt: “How does AI help businesses?”
@@ -92,6 +92,9 @@ Response: Explained AI-driven customer behavior predictions, personalization, an
 
 Evaluation: Quality (Tailored and actionable), Accuracy (Industry-relevant), Depth (Detailed and practical).
 
+
+
+
 (Scenario 3: Creative Writing)
 
 Broad Prompt: “Write a story about technology.”
@@ -105,6 +108,8 @@ Refined Prompt: “Write a short story about a futuristic city where AI governs 
 Response: Engaging narrative on AI governance, human dependence, and ethical concerns, with strong characters and plot.
 
 Evaluation: Quality (Rich and structured), Accuracy (N/A), Depth (In-depth thematic exploration).
+
+
 
 (Scenario 4: Technical Explanation)
 
@@ -122,13 +127,14 @@ Evaluation: Quality (Structured and clear), Accuracy (Factually correct), Depth 
 
 Findings
 
-Broad Prompts:
+
+i] Broad Prompts:
 
 Pros: Foster diverse, exploratory outputs; useful for brainstorming.
 
 Cons: Often lack depth, structure, and focus; limited applicability for precision-based tasks.
 
-Refined Prompts:
+ii] Refined Prompts:
 
 Pros: Generate precise, structured, and contextually relevant content.
 
@@ -148,18 +154,17 @@ Set Clear Objectives:
 
 Provide Context:
 
-    Offer background information to guide AI interpretation.
+   Offer background information to guide AI interpretation.
 
 Iterate and Optimize:
 
-    Test different prompt phrasings to improve effectiveness.
+   Test different prompt phrasings to improve effectiveness.
 
 Leverage Constraints:
 
-    Use specific focus areas to ensure tailored outputs.
+   Use specific focus areas to ensure tailored outputs.
 
 ## Conclusion
 
 Effective prompting is key to optimizing generative AI performance. Broad and refined prompts serve distinct purposes—broad prompts encourage creativity, while refined prompts ensure accuracy and depth. By mastering prompt design, users can harness AI capabilities to generate high-quality, relevant content across various applications.
 
-# RESULT
