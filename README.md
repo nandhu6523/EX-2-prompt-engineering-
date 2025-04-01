@@ -2,7 +2,7 @@
 
 
 # Introduction
-   Prompting is crucial in shaping the responses of generative AI systems. The structure of a prompt—whether broad and unstructured or refined and specific—directly impacts the quality, accuracy, and depth of generated content. While broad prompts encourage open-ended exploration, refined prompts provide better control over AI outputs. This report analyzes the effects of different prompting styles, comparing results across multiple scenarios and identifying best practices for optimizing AI-generated responses.
+      Prompting is crucial in shaping the responses of generative AI systems. The structure of a prompt—whether broad and unstructured or refined and specific—directly impacts the quality, accuracy, and depth of generated content. While broad prompts encourage open-ended exploration, refined prompts provide better control over AI outputs. This report analyzes the effects of different prompting styles, comparing results across multiple scenarios and identifying best practices for optimizing AI-generated responses.
 
 # Understanding Prompting Patterns
 
@@ -130,27 +130,27 @@ Findings:
 
 i] Broad Prompts:
 
-Pros: Foster diverse, exploratory outputs; useful for brainstorming.
+    Pros: Foster diverse, exploratory outputs; useful for brainstorming.
 
-Cons: Often lack depth, structure, and focus; limited applicability for precision-based tasks.
+    Cons: Often lack depth, structure, and focus; limited applicability for precision-based tasks.
 
 ii] Refined Prompts:
 
-Pros: Generate precise, structured, and contextually relevant content.
+   Pros: Generate precise, structured, and contextually relevant content.
 
-Cons: May restrict creativity in open-ended scenarios; require more effort to craft effectively.
+   Cons: May restrict creativity in open-ended scenarios; require more effort to craft effectively.
 
 Implications
 
-The effectiveness of generative AI models heavily depends on the clarity of the prompt. Broad prompts are ideal for exploration and ideation but lack precision. Refined prompts lead to accurate, structured, and actionable responses but may constrain flexibility in creative contexts.
+       The effectiveness of generative AI models heavily depends on the clarity of the prompt. Broad prompts are ideal for exploration and ideation but lack precision. Refined prompts lead to accurate, structured, and actionable responses but may constrain flexibility in creative contexts.
 
 Best Practices for Effective Prompting
 
-1.Set Clear Objectives:
+1 .Set Clear Objectives:
 
-   . Define the purpose and desired outcome.
+     . Define the purpose and desired outcome.
 
-   . Specify word limits, tone, and style.
+     . Specify word limits, tone, and style.
 
 2. Provide Context:
 
