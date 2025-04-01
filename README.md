@@ -130,9 +130,9 @@ Findings:
 
 i] Broad Prompts:
 
-    Pros: Foster diverse, exploratory outputs; useful for brainstorming.
+   Pros: Foster diverse, exploratory outputs; useful for brainstorming.
 
-    Cons: Often lack depth, structure, and focus; limited applicability for precision-based tasks.
+   Cons: Often lack depth, structure, and focus; limited applicability for precision-based tasks.
 
 ii] Refined Prompts:
 
