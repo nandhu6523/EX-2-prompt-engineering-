@@ -61,7 +61,7 @@ Depth: Level of detail, insight, and comprehensiveness.
 
 # Results and Analysis
 
-(Scenario 1: Academic Context)
+i] (Scenario 1: Academic Context)
 
 Broad Prompt: “Discuss the impact of artificial intelligence.”
 
@@ -78,7 +78,7 @@ Evaluation: Quality (Highly structured), Accuracy (Factually correct), Depth (Co
 
 
 
-(Scenario 2: Business Applications)
+ii] (Scenario 2: Business Applications)
 
 Broad Prompt: “How does AI help businesses?”
 
@@ -95,7 +95,7 @@ Evaluation: Quality (Tailored and actionable), Accuracy (Industry-relevant), Dep
 
 
 
-(Scenario 3: Creative Writing)
+iii] (Scenario 3: Creative Writing)
 
 Broad Prompt: “Write a story about technology.”
 
@@ -111,7 +111,7 @@ Evaluation: Quality (Rich and structured), Accuracy (N/A), Depth (In-depth thema
 
 
 
-(Scenario 4: Technical Explanation)
+iv] (Scenario 4: Technical Explanation)
 
 Broad Prompt: “Explain quantum computing.”
 
@@ -125,7 +125,7 @@ Response: Detailed discussion on quantum mechanics, secure communication, and qu
 
 Evaluation: Quality (Structured and clear), Accuracy (Factually correct), Depth (Comprehensive with applications).
 
-Findings
+Findings:
 
 
 i] Broad Prompts:
@@ -146,21 +146,21 @@ The effectiveness of generative AI models heavily depends on the clarity of the 
 
 Best Practices for Effective Prompting
 
-Set Clear Objectives:
+1.Set Clear Objectives:
 
    . Define the purpose and desired outcome.
 
    . Specify word limits, tone, and style.
 
-Provide Context:
+2. Provide Context:
 
    Offer background information to guide AI interpretation.
 
-Iterate and Optimize:
+3. Iterate and Optimize:
 
    Test different prompt phrasings to improve effectiveness.
 
-Leverage Constraints:
+4. Leverage Constraints:
 
    Use specific focus areas to ensure tailored outputs.
 
